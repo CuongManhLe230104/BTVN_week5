@@ -1,0 +1,10 @@
+D:\C# project\LeManhCuong_2280600340\Lab03-01\Lab03-02\bin\Debug\Lab03-02.exe.config
+D:\C# project\LeManhCuong_2280600340\Lab03-01\Lab03-02\bin\Debug\Lab03-02.exe
+D:\C# project\LeManhCuong_2280600340\Lab03-01\Lab03-02\bin\Debug\Lab03-02.pdb
+D:\C# project\LeManhCuong_2280600340\Lab03-01\Lab03-02\obj\Debug\Lab03-02.csproj.AssemblyReference.cache
+D:\C# project\LeManhCuong_2280600340\Lab03-01\Lab03-02\obj\Debug\Lab03_02.Form1.resources
+D:\C# project\LeManhCuong_2280600340\Lab03-01\Lab03-02\obj\Debug\Lab03_02.Properties.Resources.resources
+D:\C# project\LeManhCuong_2280600340\Lab03-01\Lab03-02\obj\Debug\Lab03-02.csproj.GenerateResource.cache
+D:\C# project\LeManhCuong_2280600340\Lab03-01\Lab03-02\obj\Debug\Lab03-02.csproj.CoreCompileInputs.cache
+D:\C# project\LeManhCuong_2280600340\Lab03-01\Lab03-02\obj\Debug\Lab03-02.exe
+D:\C# project\LeManhCuong_2280600340\Lab03-01\Lab03-02\obj\Debug\Lab03-02.pdb
